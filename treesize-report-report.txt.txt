@@ -1,0 +1,30 @@
+
+Total size of E:\aa: 6,767
+    in 7 dirs and 8 files
+
+--------------------------------------------------------------------------------
+[Directories]
+--------------------------------------------------------------------------------
+
+6,767 => E:\aa
+6,333 => E:\aa\Test
+6,169 => E:\aa\Test\FolderinTest
+    0 => E:\aa\Oman_docs
+    0 => E:\aa\Oman_docs\tags
+    0 => E:\aa\Oman_docs\tags\Releases
+    0 => E:\aa\Fol1
+
+--------------------------------------------------------------------------------
+[Files]
+--------------------------------------------------------------------------------
+
+6,169 => E:\aa\Test\FolderinTest\ExcelIn the Inner Folder.xlsx
+  259 => E:\aa\aa.bat
+  175 => E:\aa\ajit.txt
+  164 => E:\aa\Test\TextFile.txt
+    0 => E:\aa\Oman_docs\tags\Releases\test.txt
+    0 => E:\aa\Oman_docs\tags\file in tags.txt
+    0 => E:\aa\Fol1\File2in Fol1.txt
+    0 => E:\aa\Fol1\File1in Fol1.txt
+
+[End]
